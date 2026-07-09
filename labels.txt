@@ -1,0 +1,8 @@
+0 Alternaria Alternata
+1 Aspergillus Aspergillaceae
+2 Cladosporium Cladosporidae
+3 Penicillium Chrysogenum
+4 Rhizopus Stolonifer (1)
+5 Rhizopus Stolonifer (2)
+6 Stachybotrys Chartarum
+7 Non-Mold
